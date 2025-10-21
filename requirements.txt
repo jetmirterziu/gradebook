@@ -1,0 +1,5 @@
+# Python version requirement
+python>=3.10
+
+# === Gradebook Project Dependencies ===
+pytest==8.4.2
